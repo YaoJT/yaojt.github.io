@@ -334,18 +334,18 @@
 				outline: 0;
 			}
 			
-				ul.social li.facebook a						{ background-position: 0px 0px; }
-					ul.social li.facebook:hover				{ background-color: #3C5A98; }
-				ul.social li.twitter a						{ background-position: -48px 0px; }
-					ul.social li.twitter:hover				{ background-color: #2DAAE4; }
+				ul.social li.mail a						{ background-position: 0px 0px; }
+					ul.social li.mail:hover				{ background-color: #3C5A98; }
+				ul.social li.sina a						{ background-position: -48px 0px; }
+					ul.social li.sina:hover				{ background-color: #2DAAE4; }
 				ul.social li.rss a							{ background-position: -96px 0px; }
 					ul.social li.rss:hover					{ background-color: #F2600B; }
-				ul.social li.dribbble a						{ background-position: -144px 0px; }
-					ul.social li.dribbble:hover				{ background-color: #C4376B; }
+				ul.social li.github a						{ background-position: -144px 0px; }
+					ul.social li.github:hover				{ background-color: #C4376B; }
 				ul.social li.linkedin a						{ background-position: -192px 0px; }
 					ul.social li.linkedin:hover				{ background-color: #006599; }
-				ul.social li.tumblr a						{ background-position: -240px 0px; }
-					ul.social li.tumblr:hover				{ background-color: #51718A; }
+				ul.social li.QQ a						{ background-position: -240px 0px; }
+					ul.social li.QQ:hover				{ background-color: #51718A; }
 				ul.social li.googleplus a					{ background-position: -288px 0px; }
 					ul.social li.googleplus:hover			{ background-color: #DA2713; }
 
